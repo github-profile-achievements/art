@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # Github Profile Achievements Art
 
 Artwork & logo for the Github Profile Achievements GitHub-organization. Logo originally design by [Alexander Gomzyakov](https://github.com/gomzyakov).
